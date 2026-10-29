@@ -1,0 +1,8 @@
+# PipFarm Discount Codes
+
+This dataset tracks historical deal observations for PipFarm from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFDC (30%)
+Works any time on all PipFarm challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/pipfarm/
