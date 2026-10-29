@@ -1,5 +1,10 @@
 ---
 license: other
+configs:
+- config_name: pipfarm-deals
+  data_files:
+  - split: data
+    path: datasets/pipfarm-deals.json
 tags:
   - discount-codes
   - prop-firm
@@ -128,7 +133,7 @@ This repository tracks all historical deals for **PipFarm** published on PropFir
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T11:01:20Z (auto, hourly)
+Last synced: 2026-10-29T12:47:47Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
