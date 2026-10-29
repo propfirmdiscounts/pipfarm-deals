@@ -12,27 +12,28 @@ Use discount code **PFDC** to get **30% off** on PipFarm challenges and accounts
 
 ## Latest Deal
 
-### PipFarm - Half Price Accounts Up To 50K With Added Balance
+### PipFarm - Challenges At 60% Off Plus A Free Halloween Power-Up
 
-**Published:** 2026-10-22  
-**Offer ends:** 2026-10-31  
-**Discount:** 50% off  
-**Scope:** Every Model, Accounts Up To 50K, 5K Account, 10K Account, 20K Account, 50K Account  
+**Published:** 2026-10-29  
+**Offer ends:** 2026-11-03  
+**Discount:** 60% off  
+**Scope:** Every Challenge, Free Power-Up, Multiple Uses  
 
 **Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
 
-**Deal page:** https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/
+**Deal page:** https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/
 
 ---
 
 ## Deal History
 
-Total deals tracked: **68**
+Total deals tracked: **69**
 
-### 2026 (45 deals)
+### 2026 (46 deals)
 
 | Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
+| 2026-10-29 | Challenges At 60% Off Plus A Free Halloween Power-Up | 60% off | 2026-11-03 | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) |
 | 2026-10-22 | Half Price Accounts Up To 50K With Added Balance | 50% off | 2026-10-31 | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) |
 | 2026-10-11 | 100K Evaluation Accounts Starting at $99 | Only $99 | Limited time | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) |
 | 2026-10-09 | 5K Challenge $9.99 Evaluation Pricing | Only $9.99 | Limited time | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/) |
@@ -111,17 +112,17 @@ Total deals tracked: **68**
 
 ## About This Repository
 
-This repository tracks all historical deals for **PipFarm** published on PropFirmDiscount.com. Updated hourly via automated sync.
+This repository tracks all historical deals for **PipFarm** published on PropFirmDiscount.com. Updated automatically from the live API.
 
 **Data source:** PropFirmDiscount.com  
 **Prop firm profile:** https://propfirmdiscount.com/prop-firm/pipfarm/  
 
 ## Freshness
 
-<!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T15:15:16Z (auto, hourly)
-
-Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
+This mirror is synced from the live API on a schedule; the deal history
+above is the source of truth for what changed and when. Codes are
+re-verified continuously by the PropFirmDiscount team. Campaign codes
+come and go with each promotion; standing codes are re-verified yearly.
 
 ## License
 
