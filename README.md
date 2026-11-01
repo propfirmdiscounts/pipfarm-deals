@@ -2,10 +2,6 @@
 
 As of 2026-10-29, the verified PipFarm discount code is PFDC — up to 30% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-> Power-up your trading with PipFarm. A revolutionary funded trader program that gives you lifetime powers and perks. Unlock incredible features, more funding, higher leverage and much more.
->
-> — PipFarm, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/pipfarm.com)
-
 - Code: PFDC
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
@@ -51,7 +47,7 @@ Total deals tracked: **69**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-10-29 | Challenges At 60% Off Plus A Free Halloween Power-Up | 60% off | 2026-11-03 | Halloween | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) |
-| 2026-10-22 | Half Price Accounts Up To 50K With Added Balance | 50% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) |
+| 2026-10-22 | Half Price Accounts Up To 50K With Added Balance | 50% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) |
 | 2026-10-11 | 100K Evaluation Accounts Starting at $99 | Only $99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) |
 | 2026-10-09 | 5K Challenge $9.99 Evaluation Pricing | Only $9.99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/) |
 | 2026-09-28 | 70% Off and 10% Cashback Upfront Entry Cost | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/70-off-10-cashback-limited/) |
