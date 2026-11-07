@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: pipfarm-discount-codes
+  HF_NAMESPACE: pipfarm
+  HF_REPO_NAME: pipfarm-deals
   FIRM_SLUG: pipfarm
   DEALSTORE_ID: 127
   FIRM_NAME: PipFarm
