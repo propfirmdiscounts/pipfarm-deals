@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13200,
+    "title": "40% Off Classic PWP Challenges",
+    "offer_type": "coupon",
+    "discount_value": "40%",
+    "scope": [
+      "Classic Challenges, Pay With Profits"
+    ],
+    "date_published": "2026-11-09",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-09",
+    "post_url": "https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/",
+    "prop_firm": "PipFarm",
+    "prop_firm_slug": "pipfarm",
+    "standing_code": "PFDC",
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/pipfarm",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/pipfarm/"
+  },
+  {
     "deal_id": 13062,
     "title": "Challenges At 60% Off Plus A Free Halloween Power-Up",
     "offer_type": "coupon",

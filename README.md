@@ -1,6 +1,6 @@
 # PipFarm - Discount Codes & Deal History
 
-As of 2026-10-29, the verified PipFarm discount code is PFDC — up to 30% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-09, the verified PipFarm discount code is PFDC — up to 30% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > Power-up your trading with PipFarm. A revolutionary funded trader program that gives you lifetime powers and perks. Unlock incredible features, more funding, higher leverage and much more.
 >
@@ -9,22 +9,21 @@ As of 2026-10-29, the verified PipFarm discount code is PFDC — up to 30% OFF, 
 - Code: PFDC
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-29
-- Trustpilot: 3.5/5 (342 reviews)
+- Last deal published: 2026-11-09
+- Trustpilot: 3.6/5 (343 reviews)
 - Activate: https://propfirmdiscount.com/go/pipfarm
 - Firm page: https://propfirmdiscount.com/prop-firm/pipfarm/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current PipFarm deal: Challenges At 60% Off Plus A Free Halloween Power-Up
+## Current PipFarm deal: 40% Off Classic PWP Challenges
 
-- Published: 2026-10-29
-- Offer ends: 2026-11-03 (ended)
-- Offer: 60% off
-- Event: Halloween
-- Scope: Every Challenge, Free Power-Up, Multiple Uses
+- Published: 2026-11-09
+- Offer ends: Limited time
+- Offer: 40% off
+- Scope: Classic Challenges, Pay With Profits
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/
+- Deal page: https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/
 
 ## PipFarm discount code FAQ
 
@@ -38,18 +37,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current PipFarm deal?**
 
-**Challenges At 60% Off Plus A Free Halloween Power-Up** — published 2026-10-29. Offer ends: 2026-11-03 (ended). The offer is 60% off.
+**40% Off Classic PWP Challenges** — published 2026-11-09. Offer ends: Limited time. The offer is 40% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **69**
+Total deals tracked: **70**
 
-### 2026 (46 deals)
+### 2026 (47 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-09 | 40% Off Classic PWP Challenges | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/) |
 | 2026-10-29 | Challenges At 60% Off Plus A Free Halloween Power-Up | 60% off | 2026-11-03 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) |
 | 2026-10-22 | Half Price Accounts Up To 50K With Added Balance | 50% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) |
 | 2026-10-11 | 100K Evaluation Accounts Starting at $99 | Only $99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) |
