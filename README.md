@@ -52,7 +52,7 @@ Total deals tracked: **70**
 | 2026-11-09 | 40% Off Classic PWP Challenges | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/) |
 | 2026-10-29 | Challenges At 60% Off Plus A Free Halloween Power-Up | 60% off | 2026-11-03 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) |
 | 2026-10-22 | Half Price Accounts Up To 50K With Added Balance | 50% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) |
-| 2026-10-11 | 100K Evaluation Accounts Starting at $99 | Only $99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) |
+| 2026-10-11 | 100K Evaluation Accounts Starting at $99 | Only $99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) |
 | 2026-10-09 | 5K Challenge $9.99 Evaluation Pricing | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/) |
 | 2026-09-28 | 70% Off and 10% Cashback Upfront Entry Cost | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/70-off-10-cashback-limited/) |
 | 2026-09-08 | 20% Off Plus 20% Extra Balance On All Evaluation Accounts | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/20-percent-off-extra-balance-all-accounts/) |
