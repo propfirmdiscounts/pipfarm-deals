@@ -10,11 +10,12 @@ As of 2026-11, the verified PipFarm discount code is PFDC — 30% OFF, works any
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-09
-- Trustpilot: 3.6/5 (343 reviews)
-- Activate: https://propfirmdiscount.com/go/pipfarm
-- Firm page: https://propfirmdiscount.com/prop-firm/pipfarm/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3.6/5 (343 reviews)](https://www.trustpilot.com/review/pipfarm.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/pipfarm-deals](https://github.com/propfirmdiscounts/pipfarm-deals)
+- Activate: [https://propfirmdiscount.com/go/pipfarm](https://propfirmdiscount.com/go/pipfarm)
+- Firm page: [https://propfirmdiscount.com/prop-firm/pipfarm/](https://propfirmdiscount.com/prop-firm/pipfarm/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current PipFarm deal: 40% Off Classic PWP Challenges
 
@@ -23,7 +24,7 @@ As of 2026-11, the verified PipFarm discount code is PFDC — 30% OFF, works any
 - Offer: 40% off
 - Scope: Classic Challenges, Pay With Profits
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/
+- Deal page: [https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/)
 
 ## PipFarm discount code FAQ
 
@@ -131,9 +132,9 @@ Total deals tracked: **70**
 
 This repository mirrors every deal **PipFarm** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/pipfarm/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/pipfarm/](https://propfirmdiscount.com/prop-firm/pipfarm/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/pipfarm-deals.json`
 
