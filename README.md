@@ -1,4 +1,4 @@
-# PipFarm - Discount Codes & Deal History
+# PipFarm Discount Code & Deal History
 
 As of November 2026, the verified PipFarm discount code is PFDC — 30% OFF, which can be applied on the checkout page anytime. The newest is "40% Off Classic PWP Challenges".
 
@@ -8,7 +8,7 @@ As of November 2026, the verified PipFarm discount code is PFDC — 30% OFF, whi
 
 - Code: PFDC
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-09
 - Trustpilot: [3.6/5 (343 reviews)](https://www.trustpilot.com/review/pipfarm.com)
 - GitHub repository: [PipFarm Deals Repository](https://github.com/propfirmdiscounts/pipfarm-deals)
@@ -17,7 +17,7 @@ As of November 2026, the verified PipFarm discount code is PFDC — 30% OFF, whi
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [PipFarm API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current PipFarm deal: 40% Off Classic PWP Challenges
+## Latest PipFarm deal: 40% Off Classic PWP Challenges
 
 - Published: 2026-11-09
 - Offer ends: Limited time
@@ -26,7 +26,7 @@ As of November 2026, the verified PipFarm discount code is PFDC — 30% OFF, whi
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [PipFarm Deal Page](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/)
 
-## PipFarm discount code FAQ
+## PipFarm Discount Code & Deals FAQ
 
 **What is the PipFarm discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## PipFarm Deal History
 
 Total deals tracked: **70**
 
@@ -128,7 +128,7 @@ Total deals tracked: **70**
 
 ---
 
-## About this repository
+## About the PipFarm Deals Dataset
 
 This repository mirrors every deal **PipFarm** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -136,7 +136,7 @@ This repository mirrors every deal **PipFarm** has published on PropFirmDiscount
 - Prop firm profile: [PipFarm Profile](https://propfirmdiscount.com/prop-firm/pipfarm/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/pipfarm-deals.json`
+## PipFarm Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -168,13 +168,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
