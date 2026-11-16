@@ -42,10 +42,76 @@
           "@type": "ListItem",
           "position": 3,
           "name": {{ page.title | default: site.title | jsonify }},
-          "item": "https://propfirmdiscounts.github.io/{{ page.repo_name | default: site.github.repository_name }}/"
+          "item": "https://propfirmdiscounts.github.io/pipfarm-deals/"
         }
       ]
     }
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the PipFarm discount code?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PFDC. It is verified by PropFirmDiscount.com and takes 30% off PipFarm challenges and accounts."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the PipFarm discount code expire?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How much is the current PipFarm deal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "40% Off Classic PWP Challenges — published 2026-11-09. Offer ends: Limited time. The offer is 40% off."
+            }
+        }
+    ]
+}
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "PipFarm Discount Codes & Deal History Dataset",
+    "description": "As of November 2026, the verified PipFarm discount code is PFDC — 30% OFF, which can be applied on the checkout page anytime. The newest is \\",
+    "url": "https://propfirmdiscounts.github.io/pipfarm-deals/",
+    "sameAs": "https://propfirmdiscount.com/prop-firm/pipfarm/",
+    "license": "https://propfirmdiscount.com",
+    "creator": {
+        "@type": "Organization",
+        "name": "PropFirmDiscount",
+        "url": "https://propfirmdiscount.com"
+    },
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://raw.githubusercontent.com/propfirmdiscounts/pipfarm-deals/main/datasets/pipfarm-deals.json"
+        }
+    ],
+    "temporalCoverage": "2024/2026",
+    "variableMeasured": [
+        "deal_id",
+        "title",
+        "discount_value",
+        "standing_code",
+        "standing_discount",
+        "date_published",
+        "date_exp",
+        "post_url"
+    ]
+}
     </script>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
