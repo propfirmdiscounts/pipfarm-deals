@@ -1,6 +1,6 @@
 # PipFarm - Discount Codes & Deal History
 
-As of 2026-11, the verified PipFarm discount code is PFDC — 30% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified PipFarm discount code is PFDC — 30% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
 
 > Power-up your trading with PipFarm. A revolutionary funded trader program that gives you lifetime powers and perks. Unlock incredible features, more funding, higher leverage and much more.
 >
