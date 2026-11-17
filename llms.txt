@@ -1,4 +1,4 @@
-# PipFarm Discount Codes
+# PipFarm Discount Code & Deals History
 
 This dataset tracks historical deal observations for PipFarm from PropFirmDiscount.com.
 
