@@ -1,6 +1,6 @@
 # PipFarm Discount Code, Deals History & Dataset
 
-As of November 2026, the verified PipFarm discount code is PFDC — 30% OFF, which can be applied on the checkout page anytime. The newest is "40% Off Classic PWP Challenges".
+As of November 2026, the verified PipFarm discount code is PFDC — 30% OFF, which can be applied on the checkout page anytime. The newest is "Buy One Get One Free + 25%".
 
 > Power-up your trading with PipFarm. A revolutionary funded trader program that gives you lifetime powers and perks. Unlock incredible features, more funding, higher leverage and much more.
 >
@@ -9,22 +9,23 @@ As of November 2026, the verified PipFarm discount code is PFDC — 30% OFF, whi
 - Code: PFDC
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-09
-- Trustpilot: [3.6/5 (343 reviews)](https://www.trustpilot.com/review/pipfarm.com)
+- Last deal published: 2026-11-20
+- Trustpilot: [3.6/5 (345 reviews)](https://www.trustpilot.com/review/pipfarm.com)
 - GitHub repository: [PipFarm Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/pipfarm-deals)
 - Activate: [Activate PipFarm Discount Code](https://propfirmdiscount.com/go/pipfarm)
 - Firm page: [PipFarm Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/pipfarm/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [PipFarm API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest PipFarm deal: 40% Off Classic PWP Challenges
+## Latest PipFarm deal: Buy One Get One Free + 25%
 
-- Published: 2026-11-09
-- Offer ends: Limited time
-- Offer: 40% off
-- Scope: Classic Challenges, Pay With Profits
+- Published: 2026-11-20
+- Offer ends: 2026-12-01
+- Offer: 25% off
+- Event: Black Friday
+- Scope: Any Trading Account, Any Type And Any Size
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [PipFarm Deal Page](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/)
+- Deal page: [PipFarm Deal Page](https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-buy-one-get-one-free-25-off/)
 
 ## PipFarm Discount Code & Deals History FAQ
 
@@ -38,18 +39,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current PipFarm deal?**
 
-**40% Off Classic PWP Challenges** — published 2026-11-09. Offer ends: Limited time. The offer is 40% off.
+**Buy One Get One Free + 25%** — published 2026-11-20. Offer ends: 2026-12-01. The offer is 25% off.
 
 ---
 
 ## PipFarm Deals History
 
-Total deals tracked: **70**
+Total deals tracked: **71**
 
-### 2026 (47 deals)
+### 2026 (48 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-20 | PipFarm: Buy One Get One Free + 25% | 25% off | 2026-12-01 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-buy-one-get-one-free-25-off/) |
 | 2026-11-09 | PipFarm: 40% Off Classic PWP Challenges | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/) |
 | 2026-10-29 | PipFarm: Challenges At 60% Off Plus A Free Halloween Power-Up | 60% off | 2026-11-03 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) |
 | 2026-10-22 | PipFarm: Half Price Accounts Up To 50K With Added Balance | 50% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) |

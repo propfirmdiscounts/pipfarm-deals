@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13313,
+    "title": "Buy One Get One Free + 25%",
+    "offer_type": "coupon",
+    "discount_value": "25%",
+    "scope": [
+      "Any Trading Account, Any Type And Any Size"
+    ],
+    "date_published": "2026-11-20",
+    "date_exp": "2026-12-01",
+    "event": "Black Friday",
+    "last_verified": "2026-11-20",
+    "post_url": "https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-buy-one-get-one-free-25-off/",
+    "prop_firm": "PipFarm",
+    "prop_firm_slug": "pipfarm",
+    "standing_code": "PFDC",
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/pipfarm",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/pipfarm/"
+  },
+  {
     "deal_id": 13200,
     "title": "40% Off Classic PWP Challenges",
     "offer_type": "coupon",
